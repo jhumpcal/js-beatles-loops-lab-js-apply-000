@@ -25,8 +25,13 @@ function iLoveTheBeatles(number){
     number++
   }
   
-  while (number < 7)
-  return love 
+  while (number < 7){
+    return love
+  }
+  
+  while (number > 7){
+    return love(8)
+  }
   
   
 }
