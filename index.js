@@ -28,7 +28,6 @@ function iLoveTheBeatles(number){
   while (number < 15){
     return love
   }
-  
+}
   iLoveTheBeatles(8)
   
-}
