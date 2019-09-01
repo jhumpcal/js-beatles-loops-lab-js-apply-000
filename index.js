@@ -21,7 +21,7 @@ function iLoveTheBeatles(number){
   var love = []
   var count = 0 
   
-  for (i = 0; )
+  for (i=0;i=num;  )
   do {
     love.push("I love the Beatles!")
     count++
