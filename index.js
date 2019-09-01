@@ -28,8 +28,8 @@ function iLoveTheBeatles(number){
   
   do {
     love += "I love the Beatles!"
-    count++
   }
+  
   while (number < 8) {
     
   return love;
