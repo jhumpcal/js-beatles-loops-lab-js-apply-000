@@ -23,7 +23,8 @@ function iLoveTheBeatles(number){
   
   for (i=0;i=count; i++)
   {
-    fact[i]=" "
+    fact[i]=" ";
+    
   }
   do {
     love.push("I love the Beatles!")
