@@ -19,10 +19,10 @@ function johnLennonFacts(jLFacts){
 
 function iLoveTheBeatles(number){
   var love = []
-  var number = 0 
+  var count = 0 
   do {
     love.push("I love the Beatles!")
-    number++
+    count++
   }
   while (number < 8) {
     
