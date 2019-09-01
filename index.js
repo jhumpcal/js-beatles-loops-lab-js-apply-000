@@ -11,10 +11,10 @@ function johnLennonFacts(jLFacts){
   var i = 0; 
   while (i < lennonFacts.length)
     {
-      lennonfacts[i] += lennonfacts[i] + "!!!";
+      facts[i] += facts[i] + "!!!";
       i++;
     }
-  return jLFacts
+  return lennonFacts + "!!!"
 }
 
 function iLoveTheBeatles(number){
