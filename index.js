@@ -28,3 +28,4 @@ function iLoveTheBeatles(number){
   
   while (number < 7)
   return love 
+}
