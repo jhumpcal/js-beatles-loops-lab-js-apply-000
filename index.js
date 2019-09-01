@@ -30,7 +30,7 @@ function iLoveTheBeatles(number){
   }
   
   while (number > 7){
-    return love(8)
+    repeat love(8)
   }
   
   
