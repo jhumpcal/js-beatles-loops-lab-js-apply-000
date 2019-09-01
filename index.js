@@ -27,7 +27,7 @@ function iLoveTheBeatles(number){
   }
   
   do {
-    love 
+    love += "I love the Beatles!"
     count++
   }
   while (number < 8) {
