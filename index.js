@@ -30,7 +30,7 @@ function iLoveTheBeatles(number){
   }
   
   while (number > 7){
-    repeat love(8)
+    repeatStringNumTimes love(8)
   }
   
   
