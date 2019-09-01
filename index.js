@@ -21,11 +21,6 @@ function iLoveTheBeatles(number){
   var love = []
   var count = 0 
   
-  for (i=0;i=count; i++)
-  {
-    fact[i]=" ";
-  }
-  
   do {
     love += "I love the Beatles!"
   }
