@@ -19,7 +19,6 @@ function johnLennonFacts(jLFacts){
 
 function iLoveTheBeatles(number){
   var love = []
-  var count = 0 
   
   do {
     love.push("I love the Beatles!")
