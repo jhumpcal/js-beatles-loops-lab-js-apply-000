@@ -30,14 +30,8 @@ function iLoveTheBeatles(number){
     love += "I love the Beatles!"
   }
   
-  while (count < 17) 
+  while (count>17) 
     
-  iLoveTheBeatles()
-  }
-  
-  if (number > 17){
-    
-  return "I love the Beatles!";
-  }
+  iLoveTheBeatles(17)
   
 }
