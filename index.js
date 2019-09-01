@@ -25,9 +25,3 @@ function iLoveTheBeatles(number){
     love.push("I love the Beatles!")
     count++
   }
-  
-  while (count <= ) 
-    
-  iLoveTheBeatles(17)
-  
-}
