@@ -26,7 +26,7 @@ function iLoveTheBeatles(number){
     count++
   }
   
-  while (count>17) 
+  while (count) 
     
   iLoveTheBeatles(17)
   
