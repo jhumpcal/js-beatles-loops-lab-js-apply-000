@@ -14,7 +14,7 @@ function johnLennonFacts(jLFacts){
       johnLennonFacts.push(array[count] + "!!!");
       i++;
     }
-  return array 
+  return facts
 }
 
 function iLoveTheBeatles(number){
