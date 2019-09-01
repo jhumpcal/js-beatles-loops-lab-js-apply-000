@@ -11,7 +11,7 @@ function johnLennonFacts(jLFacts){
   var i = 0; 
   while (i < lennonFacts.length)
     {
-      johnLennonFacts.push(array[count] + "!!!");
+      johnLennonFacts.push(facts[count] + "!!!");
       i++;
     }
   return facts
